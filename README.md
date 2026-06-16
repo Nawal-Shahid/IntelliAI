@@ -6,7 +6,25 @@ IntelliAI is an end-to-end, AI-driven business intelligence platform built with 
 
 ---
 
-## 🚀 Features
+
+## Application Overview
+<div align="center">
+<img width="1152" height="648" alt="IntelliAI" src="https://github.com/user-attachments/assets/d92907f4-c821-4027-9621-6f4e9f7ddc82" />
+<br><br>
+
+
+
+**Figure 1.** *IntelliAI's end-to-end analytics workflow demonstrating data ingestion, profiling, cleaning, exploratory analysis, visualization, AI-powered insights, conversational analytics, and report generation.*
+
+
+
+</div>
+
+
+
+---
+
+## Features
 
 ### Complete Data Analysis Pipeline
 
