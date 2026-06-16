@@ -72,7 +72,7 @@ IntelliAI is an end-to-end, AI-driven business intelligence platform built with 
 
 ```bash
 git clone https://github.com/Nawal-Shahid/IntelliAI
-cd intelliAI
+cd IntelliAI
 ```
 
 ### 2. Install Dependencies
