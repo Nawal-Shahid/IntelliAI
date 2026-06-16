@@ -71,7 +71,7 @@ IntelliAI is an end-to-end, AI-driven business intelligence platform built with 
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Nawal-Shahid/IntelliAI
 cd intelliAI
 ```
 
@@ -238,7 +238,7 @@ The application supports both **light** and **dark** modes automatically, adapti
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables (`.env`)
 
