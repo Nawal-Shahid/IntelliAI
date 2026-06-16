@@ -1,4 +1,4 @@
-# IntelliAI 📊
+# IntelliAI
 
 **AI-Powered Self-Service Business Intelligence Platform**
 
@@ -38,7 +38,7 @@ IntelliAI is an end-to-end, AI-driven business intelligence platform built with 
 
 ---
 
-## 📋 System Requirements
+## System Requirements
 
 - **Python**: 3.8+
 - **Operating System**: Windows, macOS, or Linux
@@ -48,7 +48,7 @@ IntelliAI is an end-to-end, AI-driven business intelligence platform built with 
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### 1. Clone or Download the Repository
 
@@ -83,7 +83,7 @@ The application will open in your default web browser at `http://localhost:8501`
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 | Package | Version | Purpose |
 |---------|---------|---------|
@@ -103,7 +103,7 @@ Install all at once: `pip install -r requirements.txt`
 
 ---
 
-## 🎯 Usage Guide
+## Usage Guide
 
 ### Quick Start
 
@@ -174,7 +174,7 @@ Install all at once: `pip install -r requirements.txt`
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 intelliAI/
@@ -207,7 +207,7 @@ intelliAI/
 
 ---
 
-## 🎨 Theming
+## Theming
 
 The application supports both **light** and **dark** modes automatically, adapting to your system's theme preference via Streamlit's built-in theme support.
 
@@ -239,7 +239,7 @@ textColor = "#2d3748"
 font = "sans serif"
 
 [server]
-maxUploadSize = 100
+maxUploadSize = 200
 ```
 
 ### Data Cleaning Configuration
@@ -252,10 +252,10 @@ When using the Data Cleaning step, you can configure:
 
 ---
 
-## ⚠️ Limitations & Considerations
+## Limitations & Considerations
 
 ### File Size
-- Maximum upload size: **100MB**
+- Maximum upload size: **200MB**
 - For files >50MB, processing may be slower
 
 ### Data Types
@@ -277,7 +277,7 @@ When using the Data Cleaning step, you can configure:
 
 ---
 
-## 🔒 Privacy & Security
+## Privacy & Security
 
 - **All data processing is local** — your data never leaves your machine
 - **AI features use Groq API** — only dataset statistics and summaries are sent (not raw data)
@@ -286,7 +286,7 @@ When using the Data Cleaning step, you can configure:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 To test the application with sample data:
 
@@ -313,7 +313,7 @@ Then upload `sample_data.csv` to IntelliAI.
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### "No graph" / Visualization not showing
 - Ensure data is loaded (Step 1 completed)
@@ -337,7 +337,7 @@ Then upload `sample_data.csv` to IntelliAI.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please ensure:
 1. Code follows existing patterns and style
@@ -348,20 +348,15 @@ Contributions are welcome! Please ensure:
 
 ---
 
-## 📄 License
+## License
 
 This project is provided for educational and business use. The Groq API usage is subject to Groq's terms of service.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Streamlit** for the incredible web framework
 - **Groq** for the blazing-fast Llama 3.3 inference API
 - **Plotly** for interactive visualization capabilities
 - **Scikit-learn** for machine learning utilities
-- **All open-source contributors** whose libraries make this project possible
-
----
-
-*IntelliAI — Transform raw data into actionable insights.*
