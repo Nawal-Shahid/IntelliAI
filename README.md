@@ -1,4 +1,45 @@
-# IntelliAI
+<h1 align="center" style="background: linear-gradient(90deg, #6C63FF, #00B4D8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800; font-size: 3em;">INTELLIAI</h1>
+
+<h2 align="center" style="color:#2D3748; font-weight: 600;">Intelligent Data Analysis & Insights Platform</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-6C63FF?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Framework-Streamlit-00B4D8?style=for-the-badge&logo=streamlit">
+  <img src="https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20NumPy-6C63FF?style=for-the-badge&logo=pandas">
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-00B4D8?style=for-the-badge&logo=plotly">
+  <img src="https://img.shields.io/badge/ML%20Engine-Groq%20AI-6C63FF?style=for-the-badge&logo=groq">
+  <img src="https://img.shields.io/badge/License-MIT-00B4D8?style=for-the-badge&logo=open-source-initiative">
+</p>
+
+<p align="center">
+  <a href="https://intelliai.streamlit.app" target="_blank">
+    <img src="https://img.shields.io/badge/_Launch_App-6C63FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=6C63FF&color=00B4D8&label=" alt="Launch App">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Nawal-Shahid/IntelliAI">
+    <img src="https://img.shields.io/github/stars/Nawal-Shahid/IntelliAI?style=social">
+  </a>
+  <a href="https://github.com/Nawal-Shahid/IntelliAI/issues">
+    <img src="https://img.shields.io/github/issues/Nawal-Shahid/IntelliAI?style=social">
+  </a>
+  <a href="https://github.com/Nawal-Shahid/IntelliAI/forks">
+    <img src="https://img.shields.io/github/forks/Nawal-Shahid/IntelliAI?style=social">
+  </a>
+</p>
+
+---
+
+## **Live Demo**
+
+<p align="center">
+  <a href="https://intelliai.streamlit.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Launch_INTELLIAI_App-6C63FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=6C63FF&color=00B4D8&label=" width="300">
+  </a>
+</p>
+
+---
 
 **AI-Powered Self-Service Business Intelligence Platform**
 
