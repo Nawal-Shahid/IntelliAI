@@ -1,5 +1,4 @@
 <h1 align="center" style="background: linear-gradient(90deg, #6C63FF, #00B4D8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800; font-size: 3em;">INTELLIAI</h1>
-
 <h2 align="center" style="color:#2D3748; font-weight: 600;">Intelligent Data Analysis & Insights Platform</h2>
 
 <p align="center">
