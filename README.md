@@ -31,16 +31,6 @@
 
 ---
 
-## **Live Demo**
-
-<p align="center">
-  <a href="https://intelliai.streamlit.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Launch_INTELLIAI_App-6C63FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=6C63FF&color=00B4D8&label=" width="300">
-  </a>
-</p>
-
----
-
 **AI-Powered Self-Service Business Intelligence Platform**
 
 IntelliAI is an end-to-end, AI-driven business intelligence platform built with Streamlit and powered by Groq's Llama 3.3 70B model. It transforms raw data into actionable insights through an intuitive 8-step workflow — no coding or data science expertise required.
