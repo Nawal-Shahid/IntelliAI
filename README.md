@@ -9,7 +9,7 @@ IntelliAI is an end-to-end, AI-driven business intelligence platform built with 
 
 ## Application Overview
 <div align="center">
-<img width="1152" height="648" alt="IntelliAI" src="https://github.com/user-attachments/assets/d92907f4-c821-4027-9621-6f4e9f7ddc82" />
+<img width="1920" height="1080" alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/92f59868-7c1d-400d-b407-ced09eff5032" />
 <br><br>
 
 
