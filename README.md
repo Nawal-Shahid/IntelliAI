@@ -18,7 +18,7 @@
 
 **AI-Powered Self-Service Business Intelligence Platform**
 
-IntelliAI is an end-to-end, AI-driven business intelligence platform built with Streamlit and powered by Groq's Llama 3.3 70B model. It transforms raw data into actionable insights through an intuitive 8-step workflow — no coding or data science expertise required.
+IntelliAI is an end-to-end, AI-driven business intelligence platform built with Streamlit and powered by Groq's Llama 3.3 70B model. It transforms raw data into actionable insights through an intuitive 8-step workflow; no coding or data science expertise required.
 
 ---
 
@@ -56,11 +56,11 @@ IntelliAI is an end-to-end, AI-driven business intelligence platform built with 
 | 8 | **Reports & Export** | Download cleaned data (CSV), executive summaries, and comprehensive analytics reports |
 
 ### AI Capabilities
-- **Llama 3.3 70B** integration via Groq API for rapid inference
-- **Visualization insights** — automatic interpretation of charts and graphs
-- **Business analysis** — identifies trends, anomalies, correlations, and provides actionable recommendations
-- **Natural language queries** — ask questions about your data conversationally
-- **Context-aware responses** — adapts analysis based on dataset characteristics
+- **Llama 3.3 70B** : integration via Groq API for rapid inference
+- **Visualization insights** : automatic interpretation of charts and graphs
+- **Business analysis** : identifies trends, anomalies, correlations, and provides actionable recommendations
+- **Natural language queries** : ask questions about your data conversationally
+- **Context-aware responses** : adapts analysis based on dataset characteristics
 
 ### Data Quality
 - Automated data type detection (numeric, categorical, datetime, text)
@@ -99,7 +99,7 @@ pip install -r requirements.txt
 
 ### 3. Configure API Key
 
-Create a `.env` file in the project root (or edit the existing one):
+Create a `.env` file in the project root:
 
 ```env
 GROQ_API_KEY=your_groq_api_key_here
