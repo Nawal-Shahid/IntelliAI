@@ -17,20 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Nawal-Shahid/IntelliAI">
-    <img src="https://img.shields.io/github/stars/Nawal-Shahid/IntelliAI?style=social">
-  </a>
-  <a href="https://github.com/Nawal-Shahid/IntelliAI/issues">
-    <img src="https://img.shields.io/github/issues/Nawal-Shahid/IntelliAI?style=social">
-  </a>
-  <a href="https://github.com/Nawal-Shahid/IntelliAI/forks">
-    <img src="https://img.shields.io/github/forks/Nawal-Shahid/IntelliAI?style=social">
-  </a>
-</p>
-
----
-
 **AI-Powered Self-Service Business Intelligence Platform**
 
 IntelliAI is an end-to-end, AI-driven business intelligence platform built with Streamlit and powered by Groq's Llama 3.3 70B model. It transforms raw data into actionable insights through an intuitive 8-step workflow — no coding or data science expertise required.
